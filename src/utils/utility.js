@@ -59,7 +59,7 @@ export const listTasks = (filterStatus) => {
     }
     console.log("\n --- YOUR TASKS ---");
     filteredTasks.forEach(task => {
-        console.log(`ID: ${task.id} | Status: ${task.status.toUpperCase().padEnd(11)} | Description: ${task.description.padEnd(30)} | Updated At: ${task.updatedAt}`);
+        console.log(`ID: ${task.id} | Status: ${task.status.toUpperCase().padEnd(11)} | Description: ${task.description.padEnd(30)} | Created At: ${task.createdAt} | Updated At: ${task.updatedAt}`);
     });
     console.log("---------------------\n");
 };
