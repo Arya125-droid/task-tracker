@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-A lightweight, high-performance Command Line Interface (CLI) task tracking application built with native Node.js (ES Modules). This tool operates entirely in the terminal, managing a localized persistent database layer with optimized data lookup speeds.
+This project is a fully completed solution for the **[Task Tracker Project](https://roadmap.sh/projects/task-tracker)** on **Roadmap.sh**. A lightweight, high-performance Command Line Interface (CLI) task tracking application built with native Node.js (ES Modules). This tool operates entirely in the terminal, managing a localized persistent database layer with optimized data lookup speeds.
 
 ---
 
