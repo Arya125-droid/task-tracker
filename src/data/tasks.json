@@ -1,0 +1,26 @@
+{
+  "lastId": 3,
+  "data": {
+    "1": {
+      "id": 1,
+      "description": "Configure PostgreSQL indices",
+      "status": "in-progress",
+      "createdAt": "2026-06-06T21:47:54.797Z",
+      "updatedAt": "2026-06-06T21:48:56.612Z"
+    },
+    "2": {
+      "id": 2,
+      "description": "Complete Redis University labs",
+      "status": "done",
+      "createdAt": "2026-06-06T21:47:54.848Z",
+      "updatedAt": "2026-06-06T21:48:56.688Z"
+    },
+    "3": {
+      "id": 3,
+      "description": "Set up distributed correlation IDs",
+      "status": "todo",
+      "createdAt": "2026-06-06T21:47:54.882Z",
+      "updatedAt": "2026-06-06T21:47:54.882Z"
+    }
+  }
+}
